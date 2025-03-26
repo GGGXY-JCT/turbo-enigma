@@ -35,4 +35,4 @@ print(np.array([1, 2, 3]) ** 2)
 <img src="https://github.com/xxyuax/xdydsg/blob/main/images/51c371d8a227f1cebd75a0791b46dd0.png" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://github.com/xxyuax/xdydsg/blob/main/images/e6e4e33da7cd7f75e2b4beb5aab3ee9.png" width="800" alt="截图二">
+<img src="https://github.com/GGGXY-JCT/turbo-enigma/blob/main/images/d9b735a685c8138312e859cac285540.png" width="800" alt="截图二">
